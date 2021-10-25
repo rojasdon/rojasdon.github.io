@@ -1,4 +1,4 @@
 # Rojas Lab Manual
 ## Colorado State University
-[About](/about)
-[Contact](/contact)
+[About](/docs/about)
+[Contact](/docs/contact)
