@@ -10,6 +10,8 @@
 
 ## [Computing](/docs/computing)
 
+## [Readings](/docs/readings)
+
 ## [About](/docs/about)
 
 ## [Contact](/docs/contact)

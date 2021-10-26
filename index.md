@@ -2,8 +2,6 @@
 
 ## [Mission](/docs/mission)
 
-## [Inclusion](/docs/inclusion)
-
 ## [Conduct Code](/docs/conduct)
 
 ## [General Expectations](/docs/expectations)

@@ -14,6 +14,18 @@ Further information is contained in the following documentation, which lab membe
 
 [Bullying](http://policylibrary.colostate.edu/policy.aspx?id=729)
 
+## Inclusion
+We are committed to creating an inclusive environment in our laboratory. We seek mutual understanding, give and receive respect, and above all, support each other in as people in our pursuit of excellence in science. We follow the CSU Principles of Community:
+
+1. Inclusion
+2. Integrity
+3. Respect
+4. Service
+5. Social Justice
+
+Please refer to the CSU site for [Principles of Community](https://inclusiveexcellence.colostate.edu/resources/principles-of-community/) for more details.
+
+
 ## Confidentiality and Data Security
 
 All data in the laboratory is to be treated as strictly confidential, meaning it cannot be shared outside of laboratory personnel. To maintain confidentiality, please observe the following rules:
