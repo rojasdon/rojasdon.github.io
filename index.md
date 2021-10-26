@@ -1,6 +1,4 @@
-# Rojas Lab Manual
-
-## Colorado State University
+# Content
 
 ## [Mission](/docs/mission)
 
