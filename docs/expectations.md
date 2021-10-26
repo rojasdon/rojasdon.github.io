@@ -1,4 +1,4 @@
-# Expectations
+# General Expectations
 
 ## 1. Attend weekly lab meetings unless there are unavoidable conflicts, such as with scheduled courses taught or taken.
 

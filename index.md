@@ -6,7 +6,9 @@
 
 ## [Inclusion](/docs/inclusion)
 
-## [Expectations](/docs/expectations)
+## [Conduct Code](/docs/conduct)
+
+## [General Expectations](/docs/expectations)
 
 ## [Computing](/docs/computing)
 
