@@ -7,8 +7,10 @@ Note: All required readings are either linked to a public location, or kept on t
 ## Required for lab personnel
 
 ### All
-1. [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html#xbasic) Read Parts B and C.
+1. [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html#xbasic) Read Parts B an C.
 2. [Definition of PHI](https://cphs.berkeley.edu/hipaa/hipaa18.html)
+
+These readings can be done along with the required CITI training since they are complementary.
 
 ### MEG
 [Baillet, 2017](https://doi.org/10.1038/nn.4504)
@@ -27,5 +29,11 @@ Note: All required readings are either linked to a public location, or kept on t
 
 ## Suggested readings
 
+### Autism Spectrum Disorder
+[Happe and Frith, 2020](https://doi.org/10.1111/jcpp.13176)
+
 ### MRI Physics
 [Blewes and Kucharczyk, 2012](https://doi.org/10.1002/jmri.23642)
+
+### MR Spectroscopy
+[Bertholdo et al. 2013](https://doi.org/10.1016/j.nic.2012.10.002)
