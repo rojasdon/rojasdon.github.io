@@ -2,14 +2,14 @@
 
 ## Colorado State University
 
-[Mission](/docs/mission)
+## [Mission](/docs/mission)
 
-[Inclusion](/docs/inclusion)
+## [Inclusion](/docs/inclusion)
 
-[Expectations](/docs/expectations)
+## [Expectations](/docs/expectations)
 
-[Computing](/docs/computing)
+## [Computing](/docs/computing)
 
-[About](/docs/about)
+## [About](/docs/about)
 
-[Contact](/docs/contact)
+## [Contact](/docs/contact)
