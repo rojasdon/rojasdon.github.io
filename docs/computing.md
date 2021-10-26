@@ -17,5 +17,8 @@ The laboratory maintains a shared Discord channel for communications. Make sure 
 #### 6. Programming: [Python](https://www.python.org) or [Matlab](https://www.mathworks.com)
 #### 6. Software repository: [Github](https://www.github.com)
 
+## Laboratory Code
+
+Up to date laboratory code is maintained on Github [here](https://github.com/rojasdon?tab=repositories).
 
 The sofware we use in the lab is generally free or low cost. Matlab is only free to users under the laboratory/department licensing, which only applies to computes located on campus. Office 365 is free to campus employees and students. If you want to use other software for laboratory business, and it is not mentioned in this lab manual, please contact Dr. Rojas for approval.
