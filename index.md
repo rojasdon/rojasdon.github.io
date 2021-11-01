@@ -6,7 +6,7 @@
 
 ## [General Expectations](/docs/expectations)
 
-## [Research Practices](/docs/Research Practices)
+## [Research Practices](/docs/practices)
 
 ## [Computing](/docs/computing)
 
