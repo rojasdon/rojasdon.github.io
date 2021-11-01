@@ -6,6 +6,8 @@
 
 ## [General Expectations](/docs/expectations)
 
+## [Research Practices](/docs/Research Practices)
+
 ## [Computing](/docs/computing)
 
 ## [Readings](/docs/readings)
