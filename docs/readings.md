@@ -1,17 +1,17 @@
 # Readings
 
-The readings below are either required or suggested. The required readings are essential for those who conduct research using the technologies available in the lab. Those under the **all** heading are required for all personnel. Those under the technology specific headings are required for anyone handling that technology or data generated from that technology.
+The readings below are either required or suggested. The required readings are essential for those who conduct research using the technologies available in the lab. Human subjects readings are required for all personnel. Those under the technology specific headings are required for anyone handling that technology or data generated from that technology.
 
 Note: All required readings are either linked to a public location, or kept on the lab Google Drive, [here](https://drive.google.com/drive/folders/1gyxbN8syBasl_9W7_eA7hoW1ipj5Jbqu?usp=sharing). You may need to request permission to access the google drive. Please post requests in Discord channel #request-permissions.
 
 ## Required for lab personnel
 
-These readings can be done along with the required CITI training since they are complementary.
+The human subjects readings below can be done along with the required CITI training since they are complementary.
 
-### All [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html#xbasic) Read Parts B an C, and [Definition of PHI](https://cphs.berkeley.edu/hipaa/hipaa18.html)
+### Human Subjects [Belmont Report](https://www.hhs.gov/ohrp/regulations-and-policy/belmont-report/read-the-belmont-report/index.html#xbasic) Read Parts B an C, and [Definition of PHI](https://cphs.berkeley.edu/hipaa/hipaa18.html)
 
 
-These readings are required depending on what aspect of laboratory research you are interested in pursuing.
+The following readings are required depending on what aspect of laboratory research you are interested in pursuing.
 
 ### MEG [Baillet, 2017](https://doi.org/10.1038/nn.4504)
 
@@ -23,7 +23,7 @@ These readings are required depending on what aspect of laboratory research you 
 
 ### tDCS/tACS [Woods et al. 2016](https://doi.org/10.1016/j.clinph.2015.11.012)
 
-## Suggested readings
+## Suggested further readings
 
 ### Autism Spectrum Disorder [Happe and Frith, 2020](https://doi.org/10.1111/jcpp.13176)
 
